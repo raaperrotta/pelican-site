@@ -1,5 +1,6 @@
 Title: About
-save-as: index.html
+save_as: index.html
+status: hidden
 
 # Hello, World!
 
